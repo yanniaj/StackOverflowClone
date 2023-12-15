@@ -1,4 +1,0 @@
-*.js linguist-language=JavaScript
-*.jsx linguist-language=React
-*.html linguist-language=HTML
-*.css linguist-language=CSS
